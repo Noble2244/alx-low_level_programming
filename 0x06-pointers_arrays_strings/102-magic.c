@@ -1,3 +1,9 @@
+**
+ * main - Entry point
+ *
+ * Return: Always 0
+ */
+
 #include <stdio.h>
 
 int main(void)
